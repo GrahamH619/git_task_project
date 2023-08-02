@@ -1,2 +1,2 @@
 # git_task_project
-# This task projecct is used for familiarization with GitHub
+# This task project is used for familiarization with GitHub
